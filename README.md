@@ -1,0 +1,1 @@
+# -AI-Powered-Physiotherapy-Exercise-App-PyQt6-
